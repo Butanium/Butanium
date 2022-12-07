@@ -26,7 +26,7 @@
 - November 2022: Participated in the [Interpretability hackathon](https://alignmentjam.com/post/join-the-interpretability-hackathon) organized by Esben Kran featuring Neel Nanda
 - October 2022: Participated in the AI alignment Hackathon organized by [EffiSciences](https://www.effisciences.org/) about the out of distribution and underspecification problems
 - 2021-2022: Implemented a [Monte-Carlo tree search for the travelling salesman problem](https://github.com/Butanium/monte-carlo-tree-search-TSP)
-- 2021-2022: Created various heuristics for 6 **CodinGame** multiplayer games in **`Python`** and **`OCaml`**
+- 2021-2022: Created various heuristics for 6 [CodinGame] multiplayer games in **`Python`** and **`OCaml`**
 - 2021-2022: Independently developed [**Clash of bits**](https://github.com/Butanium/clash-of-bits), a game that I plan to publish on [CodinGame](https://www.codingame.com/contribute/view/6587dcc2e3a07bd4696c16a3e63238b4a184)
 - 2020: Small **Reinforcement learning** project on Unity with the *ml-agents* library.
 - 2020: [**War of Colonies**](https://github.com/Butanium/War-of-colonies): attempted to use genetic algorithms in Conway's Game of Life
