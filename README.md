@@ -11,7 +11,7 @@
 
 ## Education 📚
 - 2022-2023: 3rd year of Licence in Computer Science at **ENS Paris Saclay**. The ENS is a selective institution that trains teachers and researchers. 
-- 2020-2022: “classes préparatoires”, an intensive two-year programme in the sciences preparing for the competitive entrance exams to the ENS  
+- 2020-2022: Completed "classes préparatoires", an intensive two-year programme in the sciences with 12 hours of math per week, preparing for the competitive entrance exams to the ENS.
 - 2017-2020: “Baccalauréat” in the sciences, with honours
 
 
@@ -19,13 +19,13 @@
 - Proficient with functional (**`OCaml`**), imperative (**`Python`**) and object-oriented (**`Java`**) languages
 - Some experience with: **`Haskell`**, **`C`**, **`C#`**, **`JavaScript`**, **`x86_64 Assembly`**, **`Lisp`**
 - Previous experience with the python libraries **`PyTorch`**, **`Matplotlib`**, **`Pandas`**, **`NumPy`** and **`Scikit-Learn`**
-- Proficient with **Google Colab**, **Visual Studio Code** and **JetBrains** IDEs
+- Proficient with  **Git**, **Google Colab**, **Visual Studio Code** and **JetBrains** IDEs
 
 ## Computer science projects 🖱️
-- 2022-2023: Participated in “Séminaire Turing”, an AI safety reading group at ENS Paris Saclay 
-- December 2022: Participated in the [AI testing hackathon](https://itch.io/jam/aitest) organized by Esben Kran. [Our submission about Trojans in transformers](https://itch.io/jam/aitest/rate/1842319) was ranked 4rd
-- November 2022: Participated in the [Interpretability hackathon](https://alignmentjam.com/post/join-the-interpretability-hackathon) organized by Esben Kran featuring Neel Nanda
+- 2022-2023: Participated in “Séminaire Turing”, an AI alignment reading group at ENS Paris Saclay 
+- December 2022: Participated in the [AI testing hackathon](https://itch.io/jam/aitest) organized by Esben Kran. [Our submission about Trojans in transformers](https://itch.io/jam/aitest/rate/1842319) was ranked #4
 - November 2022: Participated in the [**ML4G**](https://effisciences-research.notion.site/ML-for-Good-8b94525e6d98425083731a223b53b237), a one-week French AI alignment camp organized by [**Effisciences**](https://effisciences.org/)
+- November 2022: Participated in the [Interpretability hackathon](https://alignmentjam.com/post/join-the-interpretability-hackathon) organized by Esben Kran featuring Neel Nanda
 - October 2022: Participated in the AI alignment Hackathon organized by [EffiSciences](https://www.effisciences.org/) about the out of distribution and underspecification problems
 - 2021-2022: Implemented a [Monte-Carlo tree search for the travelling salesman problem](https://github.com/Butanium/monte-carlo-tree-search-TSP)
 - 2021-2022: Created various heuristics for 6 **CodinGame** multiplayer games in **`Python`** and **`OCaml`**
@@ -55,4 +55,4 @@
 [CodinGame]: https://www.codingame.com
 [Spring Challenge 2022]: https://www.codingame.com/multiplayer/bot-programming/spring-challenge-2022
 [Mad Pod Racing]: https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing
-[Spring Challenge 2021]: https
+[Spring Challenge 2021]: https://www.codingame.com/multiplayer/bot-programming/spring-challenge-2021
