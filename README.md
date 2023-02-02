@@ -15,11 +15,12 @@
 - 2017-2020: “Baccalauréat” in the sciences, with honours
 
 
-## Programming skills 💻
+## Skills 💻
 - Proficient with functional (**`OCaml`**), imperative (**`Python`**) and object-oriented (**`Java`**) languages
 - Some experience with: **`Haskell`**, **`C`**, **`C#`**, **`JavaScript`**, **`x86_64 Assembly`**, **`Lisp`**
 - Previous experience with the python libraries **`PyTorch`**, **`Matplotlib`**, **`Pandas`**, **`NumPy`** and **`Scikit-Learn`**
-- Proficient with  **Git**, **Google Colab**, **Visual Studio Code** and **JetBrains** IDEs
+- Proficient with  **LaTeX**, **Git**, **Google Colab**, **Visual Studio Code** and **JetBrains** IDEs
+- Strong mathematical and theoretical computer science background
 
 ## Computer science projects 🖱️
 - 2022-2023: Participated in “Séminaire Turing”, an AI alignment reading group at ENS Paris Saclay 
